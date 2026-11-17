@@ -17,7 +17,6 @@ git clone --depth 1 https://github.com/SchockTop/roofsense-dataset.git
 ```
 
 No releases, no Git LFS, nothing to join: every file is below GitHub's 100 MB limit and stored whole (about 2.3 GB).
-Use `--depth 1`, otherwise git downloads the same.
 
 ## Contents
 
